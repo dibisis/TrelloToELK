@@ -1,0 +1,91 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*,cover
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/
+
+response_comment_0\.json
+
+response_comment_1\.json
+
+response_comment_10\.json
+
+response_comment_11\.json
+
+response_comment_2\.json
+
+response_comment_3\.json
+
+response_comment_4\.json
+
+response_comment_5\.json
+
+response_comment_6\.json
+
+response_comment_7\.json
+
+response_comment_8\.json
+
+response_comment_9\.json
+
+response_format_comment_final_20180313_before_20180228_unix\.json
+
+response_format_comment_final_20180313_before_20180228\.json
+
+response_format_comment\.json
+
+out\.json
+!/monitor.log
