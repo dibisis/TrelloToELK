@@ -88,4 +88,5 @@ response_format_comment_final_20180313_before_20180228\.json
 response_format_comment\.json
 
 out\.json
-!/monitor.log
+monitor.log
+venv/
